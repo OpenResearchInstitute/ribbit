@@ -1,0 +1,43 @@
+.testimonial {
+  .tiles-item-inner {
+    background: get-color(light, 3);
+  }
+}
+
+.testimonial-item-content {
+  position: relative;
+
+  &::before {
+    content: "";
+    display: block;
+    width: 24px;
+    height: 18px;
+    margin-top: 12px;
+    margin-bottom: 16px;
+    background-repeat: no-repeat;
+  }
+}
+
+.testimonial-item-footer {
+  font-weight: 600;
+  padding-top: 20px;
+
+  &.has-top-divider {
+    &::before {
+      background: get-color(dark, 3);
+    }
+  }
+}
+
+.testimonial-item-link {
+  color: get-color(secondary, 3);
+
+  a {
+    color: get-color(secondary, 3);
+    text-decoration: none;
+
+    &:hover {
+      color: get-color(secondary, 2);
+    }
+  }
+}
