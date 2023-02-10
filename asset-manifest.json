@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ribbit/static/css/main.e56cfc78.chunk.css",
-    "main.js": "/ribbit/static/js/main.975d014b.chunk.js",
-    "main.js.map": "/ribbit/static/js/main.975d014b.chunk.js.map",
+    "main.js": "/ribbit/static/js/main.bb4d050b.chunk.js",
+    "main.js.map": "/ribbit/static/js/main.bb4d050b.chunk.js.map",
     "runtime-main.js": "/ribbit/static/js/runtime-main.911e9935.js",
     "runtime-main.js.map": "/ribbit/static/js/runtime-main.911e9935.js.map",
     "static/js/2.4e727be8.chunk.js": "/ribbit/static/js/2.4e727be8.chunk.js",
     "static/js/2.4e727be8.chunk.js.map": "/ribbit/static/js/2.4e727be8.chunk.js.map",
     "index.html": "/ribbit/index.html",
-    "precache-manifest.9a85a6e24909a17f10ad25266920a543.js": "/ribbit/precache-manifest.9a85a6e24909a17f10ad25266920a543.js",
+    "precache-manifest.1f83d809a33d9b6dad8ccd1610c03194.js": "/ribbit/precache-manifest.1f83d809a33d9b6dad8ccd1610c03194.js",
     "service-worker.js": "/ribbit/service-worker.js",
     "static/css/main.e56cfc78.chunk.css.map": "/ribbit/static/css/main.e56cfc78.chunk.css.map",
     "static/js/2.4e727be8.chunk.js.LICENSE.txt": "/ribbit/static/js/2.4e727be8.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.911e9935.js",
     "static/js/2.4e727be8.chunk.js",
     "static/css/main.e56cfc78.chunk.css",
-    "static/js/main.975d014b.chunk.js"
+    "static/js/main.bb4d050b.chunk.js"
   ]
 }
