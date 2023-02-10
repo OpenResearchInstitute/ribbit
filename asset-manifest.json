@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/ribbit/static/css/main.e56cfc78.chunk.css",
-    "main.js": "/ribbit/static/js/main.2e90e7b1.chunk.js",
-    "main.js.map": "/ribbit/static/js/main.2e90e7b1.chunk.js.map",
+    "main.js": "/ribbit/static/js/main.975d014b.chunk.js",
+    "main.js.map": "/ribbit/static/js/main.975d014b.chunk.js.map",
     "runtime-main.js": "/ribbit/static/js/runtime-main.911e9935.js",
     "runtime-main.js.map": "/ribbit/static/js/runtime-main.911e9935.js.map",
-    "static/js/2.947a3a3f.chunk.js": "/ribbit/static/js/2.947a3a3f.chunk.js",
-    "static/js/2.947a3a3f.chunk.js.map": "/ribbit/static/js/2.947a3a3f.chunk.js.map",
+    "static/js/2.4e727be8.chunk.js": "/ribbit/static/js/2.4e727be8.chunk.js",
+    "static/js/2.4e727be8.chunk.js.map": "/ribbit/static/js/2.4e727be8.chunk.js.map",
     "index.html": "/ribbit/index.html",
-    "precache-manifest.66136e87f2339354d6c03f4dcc8da796.js": "/ribbit/precache-manifest.66136e87f2339354d6c03f4dcc8da796.js",
+    "precache-manifest.9a85a6e24909a17f10ad25266920a543.js": "/ribbit/precache-manifest.9a85a6e24909a17f10ad25266920a543.js",
     "service-worker.js": "/ribbit/service-worker.js",
     "static/css/main.e56cfc78.chunk.css.map": "/ribbit/static/css/main.e56cfc78.chunk.css.map",
-    "static/js/2.947a3a3f.chunk.js.LICENSE.txt": "/ribbit/static/js/2.947a3a3f.chunk.js.LICENSE.txt",
+    "static/js/2.4e727be8.chunk.js.LICENSE.txt": "/ribbit/static/js/2.4e727be8.chunk.js.LICENSE.txt",
     "static/media/style.scss": "/ribbit/static/media/illustration-section-02.63d0555d.svg",
     "static/media/ribbit-logo.png": "/ribbit/static/media/ribbit-logo.d42a005c.png"
   },
   "entrypoints": [
     "static/js/runtime-main.911e9935.js",
-    "static/js/2.947a3a3f.chunk.js",
+    "static/js/2.4e727be8.chunk.js",
     "static/css/main.e56cfc78.chunk.css",
-    "static/js/main.2e90e7b1.chunk.js"
+    "static/js/main.975d014b.chunk.js"
   ]
 }
