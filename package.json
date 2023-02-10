@@ -1,7 +1,7 @@
 {
   "name": "ribbit",
   "version": "0.1.0",
-  "homepage": "http://phase4ground.github.io/ribbit",
+  "homepage": "https://www.ribbitradio.org",
   "private": true,
   "dependencies": {
     "classnames": "^2.2.6",
