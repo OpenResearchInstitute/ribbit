@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/ribbit/static/css/main.e56cfc78.chunk.css",
-    "main.js": "/ribbit/static/js/main.2e90e7b1.chunk.js",
-    "main.js.map": "/ribbit/static/js/main.2e90e7b1.chunk.js.map",
-    "runtime-main.js": "/ribbit/static/js/runtime-main.911e9935.js",
-    "runtime-main.js.map": "/ribbit/static/js/runtime-main.911e9935.js.map",
-    "static/js/2.947a3a3f.chunk.js": "/ribbit/static/js/2.947a3a3f.chunk.js",
-    "static/js/2.947a3a3f.chunk.js.map": "/ribbit/static/js/2.947a3a3f.chunk.js.map",
-    "index.html": "/ribbit/index.html",
-    "precache-manifest.66136e87f2339354d6c03f4dcc8da796.js": "/ribbit/precache-manifest.66136e87f2339354d6c03f4dcc8da796.js",
-    "service-worker.js": "/ribbit/service-worker.js",
-    "static/css/main.e56cfc78.chunk.css.map": "/ribbit/static/css/main.e56cfc78.chunk.css.map",
-    "static/js/2.947a3a3f.chunk.js.LICENSE.txt": "/ribbit/static/js/2.947a3a3f.chunk.js.LICENSE.txt",
-    "static/media/style.scss": "/ribbit/static/media/illustration-section-02.63d0555d.svg",
-    "static/media/ribbit-logo.png": "/ribbit/static/media/ribbit-logo.d42a005c.png"
+    "main.css": "/static/css/main.be63c133.chunk.css",
+    "main.js": "/static/js/main.847f7cf9.chunk.js",
+    "main.js.map": "/static/js/main.847f7cf9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e4037f8f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e4037f8f.js.map",
+    "static/js/2.947a3a3f.chunk.js": "/static/js/2.947a3a3f.chunk.js",
+    "static/js/2.947a3a3f.chunk.js.map": "/static/js/2.947a3a3f.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.df785b093ed1addab2254e07bd105941.js": "/precache-manifest.df785b093ed1addab2254e07bd105941.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.be63c133.chunk.css.map": "/static/css/main.be63c133.chunk.css.map",
+    "static/js/2.947a3a3f.chunk.js.LICENSE.txt": "/static/js/2.947a3a3f.chunk.js.LICENSE.txt",
+    "static/media/style.scss": "/static/media/illustration-section-02.63d0555d.svg",
+    "static/media/ribbit-logo.png": "/static/media/ribbit-logo.d42a005c.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.911e9935.js",
+    "static/js/runtime-main.e4037f8f.js",
     "static/js/2.947a3a3f.chunk.js",
-    "static/css/main.e56cfc78.chunk.css",
-    "static/js/main.2e90e7b1.chunk.js"
+    "static/css/main.be63c133.chunk.css",
+    "static/js/main.847f7cf9.chunk.js"
   ]
 }
