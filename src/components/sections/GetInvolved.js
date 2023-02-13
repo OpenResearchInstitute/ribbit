@@ -85,22 +85,35 @@ const GetInvolved = ({
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8"></div>
                 <h3 className="mt-0 mb-12"> Want to test the technology?</h3>
                 <p className="m-0">
-                  Download Tech Demo 'Rattlegram' on Google Play Store
-                  <a href="https://play.google.com/store/apps/details?id=com.aicodix.rattlegram&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1">
-                    <img
-                      alt="Get it on Google Play"
-                      height={"auto"}
-                      width={"153px"}
-                      src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"
-                    />
-                  </a>
+                  Download Tech Demo 'Rattlegram'
+                  <li className="list-reset">
+                    <ul>
+                      Google Play Store
+                      <a href="https://play.google.com/store/apps/details?id=com.aicodix.rattlegram&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1">
+                        <img
+                          alt="Get it on Google Play"
+                          height={"auto"}
+                          width={"153px"}
+                          src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"
+                        />
+                      </a>
+                    </ul>
+                    <ul>
+                      TestFlight for iOS
+                      <a href="https://testflight.apple.com/join/VQKNeMkC">
+                        <img
+                          alt="TestFlight iOS"
+                          height={"64px"}
+                          width={"64px"}
+                          src="testflight-64x64_2x.png"
+                        />
+                      </a>
+                    </ul>
+                  </li>
                   <h4>
                     Note: Tech demo is called rattlegram - Ribbit name will be
                     used when we reach Alpha release{" "}
                   </h4>
-                  <div className="mb-12">
-                    iOS version is in development - released soon.
-                  </div>
                   <div className="mb-12">
                     {" "}
                     Test your reception with the{" "}
