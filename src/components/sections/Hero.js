@@ -54,8 +54,8 @@ const Hero = ({
           </div>
           <div className="container-xs">
             <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="400">
-              A new digital text messaging mode for VHF/UHF emergency
-              communications
+              A new digital text messaging mode for HF/VHF/UHF recreational and
+              emergency communications
             </p>
           </div>
         </div>
