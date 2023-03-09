@@ -100,11 +100,9 @@ const About = ({
                   </div>
                 </div>
                 <div className="features-tiles-item-content">
-                  <h4 className="mt-0 mb-8">Minimal Hardware</h4>
+                  <h4 className="mt-0 mb-8">NO Hardware</h4>
                   <p className="m-0 text-sm">
-                    It leverages the computing power of the modern smartphone to
-                    increase the capabilities of any Handy Talkie without
-                    requiring any additional hardware.
+                    It leverages the computing power of the modern smartphone to increase the capabilities of any Handy Talkie without requiring any additional hardware OR CABLE.
                   </p>
                 </div>
               </div>
