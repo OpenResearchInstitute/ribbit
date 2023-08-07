@@ -44,11 +44,6 @@ const About = ({
     pushLeft && "push-left"
   );
 
-  const noticeClasses = classNames(
-    "innerClasses center-content",
-    topDivider && "has-top-divider",
-    bottomDivider && "has-bottom-divider"
-  );
   const sectionHeader = {
     title: "About",
     paragraph: "  ",
@@ -57,16 +52,24 @@ const About = ({
   return (
     <section id="about" {...props} className={outerClasses}>
       <div className="container">
-        <div className={noticeClasses}>
+        <div
+          style={{
+            borderBottom: "4px solid yellow",
+            borderTop: "4px solid yellow",
+            textAlign: "center",
+          }}
+        >
           <br />
-          <b style={{ fontSize: 30 }}>We need Mobile App developers</b>
-          <div style={{ fontSize: 20 }}>
+          <b style={{ fontSize: 40, color: "yellow" }}>
+            We Need Mobile App Developers
+          </b>
+          <div style={{ fontSize: 30 }}>
             <br />
-            If you are interested in helping, join the{" "}
+            If you are interested in helping, please join the{" "}
             <a href="http://lists.openresearch.institute/listinfo.cgi/Ribbit-Developers-openresearch.institute">
               Developers
             </a>{" "}
-            mailing list
+            mailing list.
           </div>
           <br />
         </div>
