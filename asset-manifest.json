@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.be63c133.chunk.css",
-    "main.js": "/static/js/main.2f511157.chunk.js",
-    "main.js.map": "/static/js/main.2f511157.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.e4037f8f.js",
-    "runtime-main.js.map": "/static/js/runtime-main.e4037f8f.js.map",
-    "static/js/2.947a3a3f.chunk.js": "/static/js/2.947a3a3f.chunk.js",
-    "static/js/2.947a3a3f.chunk.js.map": "/static/js/2.947a3a3f.chunk.js.map",
+    "main.css": "/static/css/main.abfbcba5.chunk.css",
+    "main.js": "/static/js/main.ceb25c66.chunk.js",
+    "main.js.map": "/static/js/main.ceb25c66.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6a5046ec.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6a5046ec.js.map",
+    "static/js/2.1170924e.chunk.js": "/static/js/2.1170924e.chunk.js",
+    "static/js/2.1170924e.chunk.js.map": "/static/js/2.1170924e.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.3292c0593deb556f374436d1945dc440.js": "/precache-manifest.3292c0593deb556f374436d1945dc440.js",
+    "precache-manifest.f5790490b21c0150e2f2d7a16c4a96b0.js": "/precache-manifest.f5790490b21c0150e2f2d7a16c4a96b0.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.be63c133.chunk.css.map": "/static/css/main.be63c133.chunk.css.map",
-    "static/js/2.947a3a3f.chunk.js.LICENSE.txt": "/static/js/2.947a3a3f.chunk.js.LICENSE.txt",
+    "static/css/main.abfbcba5.chunk.css.map": "/static/css/main.abfbcba5.chunk.css.map",
+    "static/js/2.1170924e.chunk.js.LICENSE.txt": "/static/js/2.1170924e.chunk.js.LICENSE.txt",
     "static/media/style.scss": "/static/media/illustration-section-02.63d0555d.svg",
     "static/media/ribbit-logo.png": "/static/media/ribbit-logo.d42a005c.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.e4037f8f.js",
-    "static/js/2.947a3a3f.chunk.js",
-    "static/css/main.be63c133.chunk.css",
-    "static/js/main.2f511157.chunk.js"
+    "static/js/runtime-main.6a5046ec.js",
+    "static/js/2.1170924e.chunk.js",
+    "static/css/main.abfbcba5.chunk.css",
+    "static/js/main.ceb25c66.chunk.js"
   ]
 }
