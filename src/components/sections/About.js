@@ -54,22 +54,40 @@ const About = ({
       <div className="container">
         <div
           style={{
-            borderBottom: "4px solid yellow",
-            borderTop: "4px solid yellow",
+            borderTop: "1px solid black",
             textAlign: "center",
           }}
         >
           <br />
-          <b style={{ fontSize: 40, color: "yellow" }}>
-            We Need Mobile App Developers
+          <b style={{ color: "yellow" }}>
+            <h2 class="mt-0 mb-16" style={{ color: "yellow" }}>
+              We Need Mobile App Developers
+            </h2>
           </b>
-          <div style={{ fontSize: 30 }}>
+          <div class="m-0 text-sm">
             <br />
             If you are interested in helping, please join the{" "}
             <a href="http://lists.openresearch.institute/listinfo.cgi/Ribbit-Developers-openresearch.institute">
               Developers
             </a>{" "}
             mailing list.
+          </div>
+          <br />
+        </div>
+        <div
+          style={{
+            borderTop: "1px solid black",
+            textAlign: "center",
+          }}
+        >
+          <br />
+          <div class="center-content">
+            <img
+              alt="ARRL 2023 Technical Innovation Award Winner"
+              height={"auto"}
+              width={"400px"}
+              src="ARRL 2023 Technical Innovation Award Winner-1.png"
+            />
           </div>
           <br />
         </div>
