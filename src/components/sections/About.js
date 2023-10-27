@@ -61,7 +61,7 @@ const About = ({
           <br />
           <b style={{ color: "yellow" }}>
             <h2 class="mt-0 mb-16" style={{ color: "yellow" }}>
-              We Need Mobile App Developers
+              We Need Web Developers with PWA experience
             </h2>
           </b>
           <div class="m-0 text-sm">
