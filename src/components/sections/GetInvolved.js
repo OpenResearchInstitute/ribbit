@@ -89,23 +89,29 @@ const GetInvolved = ({
                   <li className="list-reset">
                     <ul>
                       Google Play Store
-                      <a href="https://play.google.com/store/apps/details?id=com.aicodix.rattlegram&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1">
+                      <a href="https://play.google.com/store/apps/details?id=com.aicodix.rattlegram&pcampaignid=web_share&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1">
                         <img
                           alt="Get it on Google Play"
-                          height={"auto"}
-                          width={"153px"}
                           src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"
+                          style={{
+                            width: "183px",
+                            height: "auto",
+                          }}
                         />
                       </a>
                     </ul>
                     <ul>
-                      TestFlight for iOS
-                      <a href="https://testflight.apple.com/join/VQKNeMkC">
+                      Apple App Store
+                      <a href="https://apps.apple.com/us/app/rattlegram/id1664526096?itsct=apps_box_badge&amp;itscg=30200">
                         <img
-                          alt="TestFlight iOS"
-                          height={"64px"}
-                          width={"64px"}
-                          src="testflight-64x64_2x.png"
+                          src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1700438400"
+                          alt="Download on the App Store"
+                          style={{
+                            width: "163px",
+                            height: "auto",
+                            paddingLeft: "10px",
+                            paddingTop: "10px",
+                          }}
                         />
                       </a>
                     </ul>
