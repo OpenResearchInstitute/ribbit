@@ -109,7 +109,7 @@ const GetInvolved = ({
                           style={{
                             width: "163px",
                             height: "auto",
-                            paddingLeft: "10px",
+                            paddingLeft: "6px",
                             paddingTop: "10px",
                           }}
                         />
