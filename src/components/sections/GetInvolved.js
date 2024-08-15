@@ -74,69 +74,14 @@ const GetInvolved = ({
                   mailing list where we announce major feature releases and app
                   updates.
                 </p>
-              </div>
-            </div>
-
-            <div className="split-item">
-              <div
-                className="split-item-content center-content-mobile reveal-from-left"
-                data-reveal-container=".split-item"
-              >
-                <div className="text-xxs text-color-primary fw-600 tt-u mb-8"></div>
-                <h3 className="mt-0 mb-12"> Want to test the technology?</h3>
-                <p className="m-0">
-                  Download Tech Demo 'Rattlegram'
-                  <li className="list-reset">
-                    <ul>
-                      Google Play Store
-                      <a href="https://play.google.com/store/apps/details?id=com.aicodix.rattlegram&pcampaignid=web_share&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1">
-                        <img
-                          alt="Get it on Google Play"
-                          src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"
-                          style={{
-                            width: "183px",
-                            height: "auto",
-                          }}
-                        />
-                      </a>
-                    </ul>
-                    <ul>
-                      Apple App Store
-                      <a href="https://apps.apple.com/us/app/rattlegram/id1664526096?itsct=apps_box_badge&amp;itscg=30200">
-                        <img
-                          src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1700438400"
-                          alt="Download on the App Store"
-                          style={{
-                            width: "163px",
-                            height: "auto",
-                            paddingLeft: "6px",
-                            paddingTop: "10px",
-                          }}
-                        />
-                      </a>
-                    </ul>
-                  </li>
-                  <h4>
-                    Note: Tech demo is called rattlegram - Ribbit name will be
-                    used when we reach Alpha release{" "}
-                  </h4>
-                  <div className="mb-12">
-                    {" "}
-                    Test your reception with the{" "}
-                    <a href="https://youtube.com/shorts/PbRfXTfnlf8">
-                      Test Signal
-                    </a>{" "}
-                    on YouTube.
-                  </div>
-                  <div>
-                    Subscribe to the{" "}
-                    <a href="http://lists.openresearch.institute/listinfo.cgi/Ribbit-Users-openresearch.institute">
-                      Ribbit-Users
-                    </a>{" "}
-                    discussion mailing list where users can discuss the use of
-                    the app, report success and help each other.
-                  </div>
-                </p>
+                <div className="mt-12">
+                  Subscribe to the{" "}
+                  <a href="http://lists.openresearch.institute/listinfo.cgi/Ribbit-Users-openresearch.institute">
+                    Ribbit-Users
+                  </a>{" "}
+                  discussion mailing list where users can discuss the use of the
+                  app, report success and help each other.
+                </div>
               </div>
             </div>
 

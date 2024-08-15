@@ -60,18 +60,11 @@ const About = ({
         >
           <br />
           <b style={{ color: "yellow" }}>
-            <h2 class="mt-0 mb-16" style={{ color: "yellow" }}>
-              We Need Web Developers with PWA experience
-            </h2>
+            <h3 class="mt-0 mb-16" style={{ color: "white" }}>
+              Check out our latest demo{" "}
+              <a href="http://badkangaroo.github.io">here</a>
+            </h3>
           </b>
-          <div class="m-0 text-sm">
-            <br />
-            If you are interested in helping, please join the{" "}
-            <a href="http://lists.openresearch.institute/listinfo.cgi/Ribbit-Developers-openresearch.institute">
-              Developers
-            </a>{" "}
-            mailing list.
-          </div>
           <br />
         </div>
         <div
